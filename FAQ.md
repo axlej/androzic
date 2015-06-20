@@ -1,0 +1,1 @@
+FAQ has moved to http://androzic.com/wiki/en/FAQ/

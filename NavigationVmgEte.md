@@ -1,0 +1,1 @@
+In navigation mode upper panel shows active waypoint name and [VMG/ETE](Terms.md) display to the right of it. VMG is negative when you move away from waypoint, ETE is shown in hours and minutes.

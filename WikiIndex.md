@@ -1,0 +1,1 @@
+All documentation has moved to http://androzic.com/wiki/en/

@@ -1,0 +1,1 @@
+New feature requests and other bright ideas can be submitted through [UserVoice](http://androzic.uservoice.com/) service.
